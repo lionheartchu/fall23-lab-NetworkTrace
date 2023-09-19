@@ -1,0 +1,207 @@
+body{
+    font-family: 'Glory';
+    font-size:1.4vw;
+    margin:2.5%;
+    border-radius: 1.2vw;
+    border-color: sienna;
+    border-style: double;
+    padding:2%;
+    border-width: 0.5vw;
+    background-color: bisque;
+    color:sienna;
+}
+h1{
+    text-align: center;
+    margin-top:0%;
+    margin-bottom:8%;
+}
+
+/* Brussels */
+#img1{
+    position:absolute;
+    width:12%;
+    margin-left: 76%;
+    margin-top:-10%;
+    
+}
+.brus{
+    position: absolute;
+    margin-top:2.5%;
+    margin-left:63%;
+    display: none;
+}
+#img1:hover + .brus {
+   display:block;
+  }
+#name1{
+    font-size:2vw;
+}
+#Brus{
+    margin-left: 80%;
+    margin-bottom:12%;
+    font-size:2.2vw;
+}
+
+/* Chicago */
+#img2{
+    position:absolute;
+    width:18%;
+    margin-left: 2%;
+    margin-top:-12%;
+    
+}
+.chic{
+    position: absolute;
+    margin-top:-7%;
+    margin-left:21%;
+    display: none;
+}
+#img2:hover + .chic {
+   display:block;
+  }
+  #name2{
+    font-size:2vw;
+}
+#Chic{
+    font-size:2.2vw;
+    margin-left:20%;
+    margin-bottom:3%;
+}
+
+/* New York City */
+#img3b{
+    position:absolute;
+    width:16%;
+    margin-left: 35%;
+    margin-top:-22%; 
+}
+#img3{
+    position:absolute;
+    width:14%;
+    margin-left: 42%;
+    margin-top:-14%; 
+}
+.nyc{
+    position: absolute;
+    margin-top:-7%;
+    margin-left:57%;
+    display: none;
+}
+#img3:hover + .nyc {
+   display:block;
+  }
+  #name3{
+    font-size:2vw;
+}
+#NYC{
+    font-size:2.2vw;
+    margin-left:50%;
+}
+
+/* New Jersey/Piscataway */
+#img4{
+    position:absolute;
+    width:17%;
+    margin-left: 45%;
+    margin-top:-1%;
+    
+}
+.pisc{
+    position: absolute;
+    margin-top:-5%;
+    margin-left:29%;
+    display: none;
+}
+#img4:hover + .pisc {
+   display:block;
+  }
+  #name4{
+    font-size:2vw;
+}
+#Pisc{
+    font-size:2.2vw;
+    margin-left:45%;
+    margin-bottom:2%;
+    margin-top:-2%;
+}
+
+#img5{
+    position:absolute;
+    width:16%;
+    margin-left: 25%;
+    margin-top:4%;
+}
+.phila{
+    position: absolute;
+    margin-top:-5%;
+    margin-left:23%;
+    display: none;
+}
+#img5:hover + .phila {
+   display:block;
+  }
+  #name5{
+    font-size:2vw;
+}
+#Phila{
+    font-size:2.2vw;
+    margin-left:38%;
+}
+
+#img6{
+    position:absolute;
+    width:18%;
+    margin-left: 2%;
+    margin-top:-10%;
+}
+.kansas{
+    position: absolute;
+    margin-top:1%;
+    margin-left:10%;
+    display: none;
+}
+#img6:hover + .kansas {
+   display:block;
+  }
+  #name6{
+    font-size:2vw;
+}
+#Kansas{
+    font-size:2.2vw;
+    margin-left:8%;
+    margin-top:5%;
+    margin-bottom: 12%;
+}
+
+#img7{
+    width:14%;
+    position:absolute;
+    margin-left:74%;
+    margin-top:-18%;
+}
+
+#bar{
+    margin-left:55%;
+    margin-top:-7%;
+    margin-bottom:5%;
+}
+.container {
+    width: 40%;
+    background-color: white;
+    margin-top:1.5%;
+  }
+  .txt {
+    padding-top: 0.4vw;
+    padding-bottom: 0.4vw;
+  }
+  
+  .color {
+    width: 50%; 
+    background-color: sienna;
+}
+#pos2{
+    margin-left:15%;
+}
+#pos3{
+    margin-left:10%;
+}
